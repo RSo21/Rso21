@@ -1,6 +1,3 @@
-# Programmer girl - Roksana Sobczak 👋
+# Project Manager girl - who likes to coding sometimes  👋
 
-### ⭐  I am currently looking for a job as a Junior Front-end Developer ⭐ 
-
-- 🔭 I’m currently working on Cat Shop 🙂
-- 🌱 I’m currently learning React and Redux.
+### ⭐  I am currently looking for a new opportunity ⭐ 
